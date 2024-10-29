@@ -1,3 +1,5 @@
+# Final Project - Aplicações Informáticas 12º Ano
+
 This repository contains the final project for the Computer Applications discipline, where we developed a customized version of the classic "Snake" game. The main goal of this project was to apply concepts of programming logic, graphical interface development, and event handling in an interactive environment, using the skills acquired throughout the course.
 
 🎮About the Game
